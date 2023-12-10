@@ -1,1 +1,1 @@
-# CLCM 3102 PROJECT - GROUP 3
+# CLCM 3504 PROJECT - TechCo Company website
