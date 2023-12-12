@@ -1,5 +1,5 @@
 variable "db_name" {
-  default = "main-db"
+  default = "group-3-clcm-3504-main-db"
 }
 
 variable "db_size" {
